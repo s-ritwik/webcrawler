@@ -1,0 +1,17 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.1",
+    "node.js": "^0.0.1-security",
+    "puppeteer": "^20.8.2"
+  }
+}
