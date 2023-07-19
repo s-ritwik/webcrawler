@@ -1,7 +1,7 @@
 {
   "name": "webcrawler",
   "version": "1.0.0",
-  "description": "",
+  "description": "a web crawler",
   "main": "index.js",
   "scripts": {
     "test": "jest"
