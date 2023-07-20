@@ -8,7 +8,7 @@ async function scrapeAll(browserInstance){
     }
     catch(err)
     {
-        console.log('cant make browser instance because-- '+err);
+        console.log('cant make browser instance because-- ',err);
     }
 }
 module.exports=(browserInstance) => scrapeAll(browserInstance)

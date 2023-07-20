@@ -1,8 +1,8 @@
-const puppeteer = require('puppeteer');
+//const puppeteer = require('puppeteer');
 const browserObject=require('./browser');
-const scraperController= require('./pageController.js')
+const scraperController= require('./pageController')
 
-let browserInstance=browserObject.start_browser();
+let browserInstance=browserObject.startBrowser();
 //instance of browser made
 
 //give it to scraper
